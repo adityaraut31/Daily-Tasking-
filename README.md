@@ -9,3 +9,5 @@ Day 4
 YouTube tutorial 
 Day 5
 Udemy Certificate Course Complete 
+Day 6
+Cet Mcq Form Fil up
