@@ -11,3 +11,5 @@ Day 5
 Udemy Certificate Course Complete 
 Day 6
 Cet Mcq Form Fil up
+Day 7
+Communication Skil learning 
