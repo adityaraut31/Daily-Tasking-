@@ -15,3 +15,5 @@ Day 7
 Communication Skil learning 
 Day 8
 Certificate Add one more
+Day 9
+Certification in Data Science and Artificial Intelligence Program
