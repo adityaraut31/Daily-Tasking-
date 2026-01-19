@@ -17,3 +17,5 @@ Day 8
 Certificate Add one more
 Day 9
 Certification in Data Science and Artificial Intelligence Program
+Day 10
+youtube video editing
