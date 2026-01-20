@@ -19,3 +19,5 @@ Day 9
 Certification in Data Science and Artificial Intelligence Program
 Day 10
 youtube video editing
+Day 11
+YouTube Video upload 
