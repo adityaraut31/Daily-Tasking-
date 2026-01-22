@@ -21,3 +21,5 @@ Day 10
 youtube video editing
 Day 11
 YouTube Video upload 
+Day 12
+PROJECT CREATE HTML CSS 
