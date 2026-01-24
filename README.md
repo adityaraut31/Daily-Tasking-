@@ -23,3 +23,5 @@ Day 11
 YouTube Video upload 
 Day 12
 PROJECT CREATE HTML CSS 
+Day 13
+Linkdin certificate add 
