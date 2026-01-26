@@ -27,4 +27,6 @@ Day 13
 Linkdin certificate add 
 Day 14
 Relax
+Day 15
+Independence day celebration 
 
