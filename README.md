@@ -31,3 +31,5 @@ Day 15
 Independence day celebration 
 Day 16
 Html Css JavaScript Project upload in linkdin 
+Day 17
+Going to college yavatmal 
