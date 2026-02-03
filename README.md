@@ -33,3 +33,5 @@ Day 16
 Html Css JavaScript Project upload in linkdin 
 Day 17
 Going to college yavatmal 
+Day 18
+R programming 1 unit complete 
