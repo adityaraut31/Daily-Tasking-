@@ -35,3 +35,7 @@ Day 17
 Going to college yavatmal 
 Day 18
 R programming 1 unit complete 
+Day 19
+2 unit complete R programming 
+Day 20
+3,4,5 unit complete R programming 
