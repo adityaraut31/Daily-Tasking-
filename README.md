@@ -41,3 +41,5 @@ Day 20
 3,4,5 unit complete R programming 
 Day 21
 1 unit complete in Fundamental of cyber security 
+Day 22
+2,3 unit complete in Fundamental of cyber security 
