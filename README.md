@@ -57,3 +57,5 @@ Day 29
 Waching new movie in dhurandhar 2 
 Day 30
 Document verification done
+Day 31
+Going to class seven moniter 
