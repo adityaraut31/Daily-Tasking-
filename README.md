@@ -59,3 +59,5 @@ Day 30
 Document verification done
 Day 31
 Going to class seven moniter 
+Day 32
+Speaking English Practice 
