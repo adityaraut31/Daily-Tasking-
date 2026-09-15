@@ -65,3 +65,5 @@ Day 33
 Edit 3 video 
 Day 34 
 ganpati decoration 
+Day 35
+Class in sale force 
