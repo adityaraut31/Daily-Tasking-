@@ -71,3 +71,5 @@ Day 36
 Communication video watch 
 Day 37
 Going to Ganapati In Pune 
+Day 38
+Trailhead Slove Data Modeling 
