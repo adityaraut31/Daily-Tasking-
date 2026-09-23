@@ -81,3 +81,5 @@ Day 41
 Editing a video 
 Day 42
 Communication skill 
+Day 43
+Classes in sale force 
