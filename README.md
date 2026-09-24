@@ -83,3 +83,5 @@ Day 42
 Communication skill 
 Day 43
 Classes in sale force 
+Day 44
+Communication skill 
