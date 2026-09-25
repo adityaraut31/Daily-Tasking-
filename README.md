@@ -85,3 +85,5 @@ Day 43
 Classes in sale force 
 Day 44
 Communication skill 
+Day 45
+Ganapati visarjan 
