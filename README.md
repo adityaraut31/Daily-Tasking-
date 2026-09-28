@@ -91,3 +91,5 @@ Day 46
 Trailhead Slove Question Report Created 
 Day 47
 Break
+Day 48
+Trailhead Validation Rule Topic Cover 
