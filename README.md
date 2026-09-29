@@ -93,3 +93,5 @@ Day 47
 Break
 Day 48
 Trailhead Validation Rule Topic Cover 
+Day 49
+Reading Notebook in Salesforce 
