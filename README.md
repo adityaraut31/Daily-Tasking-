@@ -95,3 +95,5 @@ Day 48
 Trailhead Validation Rule Topic Cover 
 Day 49
 Reading Notebook in Salesforce 
+Day 50
+Classes 
