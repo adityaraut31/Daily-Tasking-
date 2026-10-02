@@ -99,3 +99,5 @@ Day 50
 Classes 
 Day 51
 Class 
+Day 52
+Holiday 
