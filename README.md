@@ -109,3 +109,5 @@ Day 55
 Certifications 
 Day 56
 Classes 
+Day 57
+Notes reading 
