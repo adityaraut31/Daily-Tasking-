@@ -111,3 +111,5 @@ Day 56
 Classes 
 Day 57
 Notes reading 
+Day 58
+Video upload in YouTube 
