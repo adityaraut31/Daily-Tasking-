@@ -115,3 +115,5 @@ Day 58
 Video upload in YouTube 
 Day 59
 Going To Classes 
+Day 60
+Trailhead question sloves
