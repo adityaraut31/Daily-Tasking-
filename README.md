@@ -127,3 +127,5 @@ Day 64
 Going To Home
 Day 65
 Notebook Notes Creating 
+Day 66
+Read Notes
