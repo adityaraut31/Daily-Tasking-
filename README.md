@@ -129,3 +129,5 @@ Day 65
 Notebook Notes Creating 
 Day 66
 Read Notes
+Day 67
+Going to temple 
