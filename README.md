@@ -133,3 +133,5 @@ Day 67
 Going to temple 
 Day 68
 Break 
+Day 69
+Notes writing 
