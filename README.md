@@ -137,3 +137,5 @@ Day 69
 Notes writing 
 Day 70
 Assignment work
+Day 71
+Notes Writing 
