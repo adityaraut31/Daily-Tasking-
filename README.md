@@ -139,3 +139,5 @@ Day 70
 Assignment work
 Day 71
 Notes Writing 
+Day 72
+video upload Youtube 
