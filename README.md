@@ -141,3 +141,5 @@ Day 71
 Notes Writing 
 Day 72
 video upload Youtube 
+Day 73
+Notes writing python 
