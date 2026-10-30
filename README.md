@@ -155,3 +155,5 @@ Day78
 Going to hospital 
 Day 79
 Class sale force 
+Day 80
+Traveling 
