@@ -157,3 +157,5 @@ Day 79
 Class sale force 
 Day 80
 Traveling 
+Day 81
+Going to home
