@@ -163,3 +163,5 @@ Day 82
 interview questions practice 
 Day 83
 Break 
+Day 84
+Home cleaning 
