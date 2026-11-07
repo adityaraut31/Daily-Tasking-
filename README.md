@@ -171,3 +171,5 @@ Day 86
 Project Creation 
 Day 87
 Introduction Practice 
+Day 88
+Cleaning home
