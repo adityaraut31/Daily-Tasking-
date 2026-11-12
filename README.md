@@ -181,3 +181,5 @@ Day 91
 Going To movie Ramayan 
 Day 92
 Complete project Salesforce 
+day 93
+complete 25 day project in 8 day only restaurants crm
