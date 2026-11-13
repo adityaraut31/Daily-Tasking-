@@ -183,3 +183,5 @@ Day 92
 Complete project Salesforce 
 day 93
 complete 25 day project in 8 day only restaurants crm
+day 94
+Complete classes crm addmistrator
