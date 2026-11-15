@@ -187,3 +187,5 @@ day 94
 Complete classes crm addmistrator
 day 95
 break
+Day 96
+haircut 
