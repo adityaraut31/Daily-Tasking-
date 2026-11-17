@@ -189,3 +189,5 @@ day 95
 break
 Day 96
 haircut 
+Day 97
+Going to pusad
