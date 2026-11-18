@@ -191,3 +191,5 @@ Day 96
 haircut 
 Day 97
 Going to pusad
+Day 98
+Attend class 
