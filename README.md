@@ -193,3 +193,5 @@ Day 97
 Going to pusad
 Day 98
 Attend class 
+Day 99
+Attend class and notes created
