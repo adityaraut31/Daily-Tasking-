@@ -195,3 +195,5 @@ Day 98
 Attend class 
 Day 99
 Attend class and notes created
+Day 100
+class practice & trailhead 
