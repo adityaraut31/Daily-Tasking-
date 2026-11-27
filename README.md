@@ -207,3 +207,5 @@ Day 104
 Meet To friends 
 Day 105
 class
+Day 106
+Class 
